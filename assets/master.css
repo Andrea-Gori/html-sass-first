@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+h1, p, div, button {
+  color: #042d55;
+  font-size: 20px;
+}

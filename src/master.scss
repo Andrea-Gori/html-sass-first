@@ -1,0 +1,17 @@
+$colore: #042d55;
+
+$grosso: 20px;
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+h1, p, div, button {
+  color: $colore;
+  font-size: $grosso;
+}
